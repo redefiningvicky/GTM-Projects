@@ -1,7 +1,7 @@
 # 🏋🏻‍♀️ GTM Projects
 Welcome to my GTM projects! <p>
 ## 📑 Table of Contents <br>
-• [Clay](https://github.com/redefiningvicky/Agentic-Projects?tab=readme-ov-file#-clay-)  <p>
+• [Clay](https://github.com/redefiningvicky/GTM-Projects?tab=readme-ov-file#-clay-)  <p>
 
 ---
 ## ✴️ Clay <br>
