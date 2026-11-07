@@ -43,7 +43,7 @@
   </a>
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Frontier-50/blob/main/Frontier_50/Frontier_50.csv">
-    View Dataset
+    View CSV
   </a>
 </p>
 
